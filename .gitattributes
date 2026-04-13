@@ -1,1 +1,2 @@
-https://identity.getpostman.com/reset-password?token=727a944253fc51b34d61054d940548f8062531fce5189affab86986d331d208c
+curl --location 'https://func-clinical-prodautomation-eastus-crt-01.azurewebsites.net/api/process-incident?code=v3mca-i5IZJMmdWkWPqA9C3reqqPlMG_BJUFBzy5_-i8AzFuUOnxDA%3D%3D&incident_number=INC1619209' \
+--header 'code: v3mca-i5IZJMmdWkWPqA9C3reqqPlMG_BJUFBzy5_-i8AzFuUOnxDA=='
